@@ -1,0 +1,17 @@
+{
+  "name": "js13kgames-lost",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Evgenii Khramkov <evkhramk@microsoft.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.5",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "ts-node": "^7.0.0",
+    "typescript": "^3.0.1"
+  }
+}
